@@ -1,5 +1,5 @@
 # Instagram unfollowers checker
-Let's check who you are following but not follow you back!
+Let's check who you are following but doesn't follow you back!
 
 ## Steps
 1. Open Instagram and go to Profile > Account Center > Your information and permissions > Download your information
